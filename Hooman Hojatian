@@ -1,4 +1,4 @@
-#include <iostream>
+        #include <iostream>
 
 	using namespace std;
 
@@ -43,11 +43,11 @@
 	
 	}
     void account(int option) {
-	                       cout <<"1. Check amount"
+	                         cout <<"1. Check amount"
 	                              <<"2. remove from "  
 	                              <<"3. add to " 
 	                              <<"4. Transfer " 
-                                  <<"5. change password "
+                                      <<"5. change password "
 	                              <<"6. Return to Menu." << endl;
 
 	
